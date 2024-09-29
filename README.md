@@ -30,4 +30,4 @@ SoberSafe is an iOS application developed to help users make safe decisions by c
 [MIT License](LICENSE)
 
 ## Contact
-Developed by [Vishnu Pillai](https://github.com/your-profile)
+Developed by [Vishnu Pillai](https://github.com/VishnuP02)
